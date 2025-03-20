@@ -19,7 +19,7 @@ console.log(typeof "JavaScript"); // Salida: "string"
 
 console.log(typeof true); // Salida: "boolean"
 
-/******************* EJERCICIO 4 *************************************/
+/******************* EJERCICIO 44 *************************************/
 
 const resultado = (15 + 3) * (8 / 2);
 
